@@ -22,13 +22,13 @@ Los pagos se realizarán con mercado pago.
 ## Arquitectura:
 Para el backend se usará la arquitectura de Microservicios:
 - [Servicio de usuarios ](https://github.com/ctnfimac/spring_cicd)
-- Servicio de Contrataciones
-- Servicio de Servicios ofrecidos
+- [Servicio de Contrataciones](https://github.com/ctnfimac/contract-service)
+- [Servicio de Trabajos](https://github.com/ctnfimac/work-service)
 
 ## Lenguajes a usar:
 - El servicio de "usuarios" se desarrollará con Java y framework SpringBoot.
-- El servicio de "contrataciones" se desarrollará con Python y Libreria FastApi.
-- El servicio de "servicios ofrecidos" se desarrollará con Goland.
+- El servicio de "contrataciones" se desarrollará con Goland.
+- El servicio de "Trabajos" se desarrollará con Python y Libreria FastApi.
 
 ## Estructura General del proyecto:
 ![Image](https://github.com/user-attachments/assets/ebb9b47b-3dd2-4147-9bea-ffb3ab94d52d)
