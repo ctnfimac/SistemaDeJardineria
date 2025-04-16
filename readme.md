@@ -31,8 +31,7 @@ Para el backend se usará la arquitectura de Microservicios:
 - El servicio de "servicios ofrecidos" se desarrollará con Goland.
 
 ## Estructura General del proyecto:
-![Image](https://github.com/user-attachments/assets/787150ca-70cb-42ad-bd44-431031612a37)
-
+![Image](https://github.com/user-attachments/assets/ebb9b47b-3dd2-4147-9bea-ffb3ab94d52d)
 
 ## Organización del proyecto
 Las tareas se organizan en un tablero creado en el mismo repositorio de github, las cuales están divididas
